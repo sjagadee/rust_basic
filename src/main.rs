@@ -1,4 +1,4 @@
-
+mod m1_enums;
 const OUR_COURSE: &str = "Rust with AutoGPT";
 
 fn main() {
